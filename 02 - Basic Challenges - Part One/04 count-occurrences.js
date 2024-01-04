@@ -1,0 +1,1 @@
+const countOccurrences = (str, char) => str.split(char).length - 1

@@ -1,4 +1,4 @@
-import Stack from './03 stack'
+import Stack from './stack'
 
 class Node {
   constructor(data) {
